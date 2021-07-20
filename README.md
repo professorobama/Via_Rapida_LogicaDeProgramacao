@@ -1,2 +1,2 @@
-# Via_Rapida_LogicaDeProgramacao
+# ViaRapida_LogicaDeProgramacao
 Códigos utilizados no curso de Lógica de Programação da turma da Via Rápida.
